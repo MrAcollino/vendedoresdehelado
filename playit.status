@@ -1,1 +1,40 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723150181267 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAsFHgAAAZEzwSO_AAAAAQAAAAEAAAAAAAAAAAHREWpsfr73xNPnMWG7xtNFQI80qbBRP6qGfVbQzVBi
+
+TUNNELS
+chapter-proposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723150184401 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAsFHgAAAZEzwSO_AAAAAQAAAAEAAAAAAAAAAAHREWpsfr73xNPnMWG7xtNFQI80qbBRP6qGfVbQzVBi
+
+TUNNELS
+chapter-proposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723150199502 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAsFHgAAAZEzwWrwAAAAAQAAAAEAAAAAAAAAACxUqpAXTJ88I0jGR_kOhr-eqDkZZ529cZf9u-qKivZb
+
+TUNNELS
+chapter-proposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723150214674 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAsFHgAAAZEzwaY1AAAAAQAAAAEAAAAAAAAAACvzi0w0M0KECblnK4D709BBGs79YsTrkLCg1H_QraR6
+
+TUNNELS
+chapter-proposed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
